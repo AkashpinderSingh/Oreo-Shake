@@ -1,0 +1,3 @@
+big is $5
+medium $3
+small $1
